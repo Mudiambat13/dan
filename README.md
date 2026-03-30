@@ -175,7 +175,7 @@ L'application est accessible sur **http://localhost:5173**
 | `DB_HOST` | Hôte PostgreSQL | `localhost` |
 | `DB_PORT` | Port PostgreSQL | `5432` |
 | `GEMINI_API_KEY` | **Clé API Gemini** ⚠️ | `AIza...` |
-| `GEMINI_MODEL` | Modèle Gemini | `gemini-1.5-flash` |
+| `GEMINI_MODEL` | Modèle Gemini | `gemini-2.5-flash` |
 | `JWT_ACCESS_TOKEN_LIFETIME_MINUTES` | Durée token d'accès | `60` |
 | `JWT_REFRESH_TOKEN_LIFETIME_DAYS` | Durée token de rafraîchissement | `7` |
 | `CORS_ALLOWED_ORIGINS` | URLs frontend autorisées | `http://localhost:5173` |
