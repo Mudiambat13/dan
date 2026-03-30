@@ -1,4 +1,4 @@
-# 🎓 DAN — Assistant Pédagogique IA
+#  DAN — Assistant Pédagogique IA
 
 > Générez des plans pédagogiques complets avec évaluations en quelques secondes grâce à l'IA Gemini.
 
@@ -221,4 +221,4 @@ npm run build
 
 ---
 
-## 👨‍💻 Développé avec ❤️ par DAN
+## 👨‍💻 Développé avec ❤️ par Jonathan Mudiambat M
